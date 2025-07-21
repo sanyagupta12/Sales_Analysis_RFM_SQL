@@ -1,5 +1,5 @@
 # Sales_Analysis_RFM_SQL
-Conducted sales analysis using SQL on a retail dataset to uncover key business trends.
-Implemented RFM segmentation to classify customers based on recency, frequency, and spend.
-Identified high-performing product lines, seasonal patterns, and customer value tiers.
-Delivered insights to support targeted marketing and revenue growth strategies.
+Performed an in-depth sales analysis on a retail dataset using SQL, focusing on customer behavior and revenue trends.
+Leveraged data cleaning, aggregation, and filtering to explore product performance, seasonal sales, and deal sizes.
+Implemented RFM segmentation to categorize customers by recency, frequency, and monetary value.
+Identified actionable customer groups (e.g., loyal, at-risk) and key revenue periods to support targeted business strategies.
